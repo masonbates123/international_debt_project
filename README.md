@@ -1,4 +1,4 @@
-# International Debt
+# International Debt Project
 
 ### Table of Contents
 
